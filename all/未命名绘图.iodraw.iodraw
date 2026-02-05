@@ -56,8 +56,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="iVHvqGgbZpM5hy3SW09i-2" target="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="400" as="sourcePoint" />
+            <mxPoint x="269.5" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="410" y="150" width="10" height="330" as="geometry" />
