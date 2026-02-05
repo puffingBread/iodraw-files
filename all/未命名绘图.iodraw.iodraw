@@ -58,8 +58,8 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-18" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="400" as="sourcePoint" />
-            <mxPoint x="269.5" y="400" as="targetPoint" />
+            <mxPoint x="420" y="350" as="sourcePoint" />
+            <mxPoint x="279.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -119,11 +119,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="3.上传身份信息获取faceId" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="270" as="sourcePoint" />
+            <mxPoint x="420" y="290" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="270" />
+              <mxPoint x="505" y="290" />
             </Array>
-            <mxPoint x="605" y="270" as="targetPoint" />
+            <mxPoint x="605" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
