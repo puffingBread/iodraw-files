@@ -189,6 +189,15 @@
             <mxPoint x="410" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-35" value="回调结果通知" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="600" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="195" y="600" />
+            </Array>
+            <mxPoint x="280" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
