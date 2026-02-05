@@ -101,13 +101,22 @@
             <mxPoint x="595" y="189.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="2.获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="425" y="240" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="510" y="240" />
             </Array>
             <mxPoint x="610" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="2.获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="435" y="250" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="520" y="250" />
+            </Array>
+            <mxPoint x="620" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
