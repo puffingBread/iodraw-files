@@ -73,21 +73,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="iVHvqGgbZpM5hy3SW09i-5" target="iVHvqGgbZpM5hy3SW09i-2">
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="245" as="targetPoint" />
+            <mxPoint x="420" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="320" />
+              <mxPoint x="515" y="280" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-9" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="iVHvqGgbZpM5hy3SW09i-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="275" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="505" y="270" />
-            </Array>
-            <mxPoint x="425" y="270" as="sourcePoint" />
+            <mxPoint x="605" y="280" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-10" value="partner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
