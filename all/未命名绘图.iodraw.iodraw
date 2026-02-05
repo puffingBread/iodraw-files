@@ -81,11 +81,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="280" as="targetPoint" />
+            <mxPoint x="420" y="239.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="280" />
+              <mxPoint x="515" y="239.5" />
             </Array>
-            <mxPoint x="605" y="280" as="sourcePoint" />
+            <mxPoint x="605" y="239.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-10" value="partner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
@@ -110,11 +110,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="2.获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="219.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="240" />
+              <mxPoint x="505" y="219.5" />
             </Array>
-            <mxPoint x="605" y="240" as="targetPoint" />
+            <mxPoint x="605" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="3.上传身份信息获取faceId" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
