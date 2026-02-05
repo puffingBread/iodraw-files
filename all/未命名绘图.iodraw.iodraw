@@ -104,7 +104,11 @@
           <mxGeometry x="365" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-12" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=vertical;curved=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="iVHvqGgbZpM5hy3SW09i-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="140" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
