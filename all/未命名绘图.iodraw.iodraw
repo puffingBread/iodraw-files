@@ -104,7 +104,7 @@
             <Array as="points">
               <mxPoint x="515" y="180" />
             </Array>
-            <mxPoint x="590" y="180" as="sourcePoint" />
+            <mxPoint x="600" y="180" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
