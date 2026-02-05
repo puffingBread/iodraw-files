@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-10" value="partner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="720" y="70" width="100" height="300" as="geometry" />
+          <mxGeometry x="365" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-13" value="查询代理认证信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
