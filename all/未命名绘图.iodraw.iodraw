@@ -119,11 +119,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="3.上传身份信息获取faceId" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="330" as="sourcePoint" />
+            <mxPoint x="420" y="270" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="330" />
+              <mxPoint x="505" y="270" />
             </Array>
-            <mxPoint x="605" y="330" as="targetPoint" />
+            <mxPoint x="605" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
