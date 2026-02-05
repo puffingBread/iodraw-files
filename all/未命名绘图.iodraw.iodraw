@@ -165,7 +165,7 @@
             <Array as="points">
               <mxPoint x="185" y="590" />
             </Array>
-            <mxPoint x="270" y="590" as="targetPoint" />
+            <mxPoint x="260" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-32" value="回调结果通知" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
