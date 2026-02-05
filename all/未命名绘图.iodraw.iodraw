@@ -54,10 +54,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="410" y="150" width="10" height="210" as="geometry" />
+          <mxGeometry x="445" y="150" width="10" height="210" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-4" value="腾讯云" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="560" y="40" width="100" height="760" as="geometry" />
+          <mxGeometry x="595" y="40" width="100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="iVHvqGgbZpM5hy3SW09i-4">
           <mxGeometry x="45" y="120" width="10" height="160" as="geometry" />
@@ -67,23 +67,23 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-6" value="1.获取accessToken" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="iVHvqGgbZpM5hy3SW09i-2" target="iVHvqGgbZpM5hy3SW09i-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="170" as="sourcePoint" />
+            <mxPoint x="555" y="170" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="160" />
+              <mxPoint x="540" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-7" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="239.5" as="targetPoint" />
+            <mxPoint x="455" y="239.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="239.5" />
+              <mxPoint x="550" y="239.5" />
             </Array>
-            <mxPoint x="605" y="239.5" as="sourcePoint" />
+            <mxPoint x="640" y="239.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-10" value="partner" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="365" y="40" width="100" height="760" as="geometry" />
+          <mxGeometry x="400" y="40" width="100" height="760" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-13" value="查询代理认证信息" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -94,39 +94,39 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-14" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="180" as="targetPoint" />
+            <mxPoint x="455" y="180" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="180" />
+              <mxPoint x="550" y="180" />
             </Array>
-            <mxPoint x="600" y="180" as="sourcePoint" />
+            <mxPoint x="635" y="180" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="2.获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="219.5" as="sourcePoint" />
+            <mxPoint x="455" y="219.5" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="219.5" />
+              <mxPoint x="540" y="219.5" />
             </Array>
-            <mxPoint x="605" y="219.5" as="targetPoint" />
+            <mxPoint x="640" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="3.上传身份信息获取faceId" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="290" as="sourcePoint" />
+            <mxPoint x="455" y="290" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="505" y="290" />
+              <mxPoint x="540" y="290" />
             </Array>
-            <mxPoint x="605" y="290" as="targetPoint" />
+            <mxPoint x="640" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="310" as="targetPoint" />
+            <mxPoint x="455" y="310" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="515" y="310" />
+              <mxPoint x="550" y="310" />
             </Array>
-            <mxPoint x="605" y="310" as="sourcePoint" />
+            <mxPoint x="640" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-19" value="返回&lt;div&gt;启用&lt;span style=&quot;background-color: initial;&quot;&gt;人脸核身&lt;/span&gt;&lt;div&gt;&lt;div&gt;请求url&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
@@ -178,7 +178,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-33" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="410" y="610" width="10" height="40" as="geometry" />
+          <mxGeometry x="445" y="610" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-34" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
