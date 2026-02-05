@@ -191,11 +191,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-35" value="轮询人脸识别结果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="660" as="sourcePoint" />
+            <mxPoint x="110" y="650" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="185" y="660" />
+              <mxPoint x="185" y="650" />
             </Array>
-            <mxPoint x="270" y="660" as="targetPoint" />
+            <mxPoint x="270" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-36" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
