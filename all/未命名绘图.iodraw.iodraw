@@ -109,13 +109,13 @@
             <mxPoint x="595" y="189.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="获取accessToken" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-15" value="获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="170" as="sourcePoint" />
+            <mxPoint x="425" y="240" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="515" y="170" />
+              <mxPoint x="510" y="240" />
             </Array>
-            <mxPoint x="615" y="170" as="targetPoint" />
+            <mxPoint x="610" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
