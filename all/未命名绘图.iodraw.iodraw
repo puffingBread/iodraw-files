@@ -112,11 +112,11 @@
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-16" value="2.获取signTicket" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="435" y="250" as="sourcePoint" />
+            <mxPoint x="420" y="330" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="520" y="250" />
+              <mxPoint x="505" y="330" />
             </Array>
-            <mxPoint x="620" y="250" as="targetPoint" />
+            <mxPoint x="605" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
