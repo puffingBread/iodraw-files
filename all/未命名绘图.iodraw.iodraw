@@ -186,7 +186,7 @@
             <Array as="points">
               <mxPoint x="375" y="640" />
             </Array>
-            <mxPoint x="410" y="640" as="sourcePoint" />
+            <mxPoint x="440" y="640" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iVHvqGgbZpM5hy3SW09i-35" value="轮询人脸识别结果" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
