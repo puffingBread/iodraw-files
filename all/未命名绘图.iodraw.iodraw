@@ -141,16 +141,16 @@
             <mxPoint x="80" y="479.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-27" value="启用H5人脸核身" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="iVHvqGgbZpM5hy3SW09i-4">
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-27" value="启用H5人脸核身" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="500" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="185" y="500" />
             </Array>
-            <mxPoint x="600" y="500" as="targetPoint" />
+            <mxPoint x="640" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iVHvqGgbZpM5hy3SW09i-29" value="callback" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="iVHvqGgbZpM5hy3SW09i-29" value="callback" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="iVHvqGgbZpM5hy3SW09i-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="100" y="540" as="targetPoint" />
             <Array as="points">
